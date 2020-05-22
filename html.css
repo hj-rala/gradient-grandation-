@@ -1,0 +1,16 @@
+css
+
+(마지막색, 처음색)
+
+위에서아래
+background: linear-gradient(#def6ff, #ace3f7) fixed;
+
+각도변경
+background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
+
+원형그라데이션
+background: radial-gradient(#F2B9A1, #EA6264) fixed;
+
+익스10~가능
+
+출처: https://studio5ing.tistory.com/73 [Studio-5ing]
